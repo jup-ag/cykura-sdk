@@ -1,5 +1,5 @@
 {
-  "name": "@cykura/sdk",
+  "name": "@jup-ag/cykura-sdk",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -24,7 +24,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@cykura/sdk-core": "^0.1.7",
+    "@cykura/sdk-core": "npm:@jup-ag/cykura-sdk-core@0.1.7",
     "@project-serum/anchor": "^0.22.1",
     "@solana/web3.js": "^1.32.0",
     "tiny-invariant": "^1.1.0"
