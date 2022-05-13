@@ -944,10 +944,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@cykura/sdk-core@npm:@jup-ag/cykura-sdk-core@0.1.7":
-  version "0.1.7"
-  resolved "https://registry.yarnpkg.com/@jup-ag/cykura-sdk-core/-/cykura-sdk-core-0.1.7.tgz#995a446fb8b9134fed3e7fe0c0a58557f9fc9939"
-  integrity sha512-lA5UXUaauLdBYTmMY0eO9O6HrhBrnaX8vfk6Dbx3OhdfFzIKPrTB8i4d6aRyzU7tgka2ibZZnPaX+B6cj1nsrA==
+"@cykura/sdk-core@npm:@jup-ag/cykura-sdk-core@0.1.8":
+  version "0.1.8"
+  resolved "https://registry.yarnpkg.com/@jup-ag/cykura-sdk-core/-/cykura-sdk-core-0.1.8.tgz#ba8724644e18d1006422dbba5c7701360a729b91"
+  integrity sha512-bVtDA4oEuzj/amuTPVlk1OFpdlYKK6H9nKWg6Tv6mn6MydS/ArC2EY2zuMHtWP+1YJ5CAwxHL/7Kl1k+7XBSoQ==
   dependencies:
     "@project-serum/anchor" "^0.22.0"
     big.js "^5.2.2"
